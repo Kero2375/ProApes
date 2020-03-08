@@ -1,0 +1,6 @@
+[submodule "Code"]
+	path = ProApes
+	url = https://github.com/FiammettaFMC/ProApes
+[submodule "Documentation"]
+	path = ProApesDocumentation
+	url = https://github.com/FiammettaFMC/ProApesDocumentation
