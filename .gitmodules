@@ -1,0 +1,9 @@
+[submodule "ModuloEsterno"]
+	path = ModuloEsterno
+	url = https://github.com/FiammettaFMC/ModuloEsterno
+[submodule "ModuloInterno"]
+	path = ModuloInterno
+	url = https://github.com/FiammettaFMC/ModuloInterno
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/FiammettaFMC/Documentation
